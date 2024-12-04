@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div></div>
 
-# Wenaaaa 👋
+# Hey 👋
 
 I'm Cristobal Veas, a developer with a passion for creating innovative solutions and learning new technologies. Here's a bit about me:
 
