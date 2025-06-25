@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <div style="position: relative; width: fit-content;">
   <img src="https://images.squarespace-cdn.com/content/v1/57e1aa46c534a5faba5b0beb/1582765003452-WV8XMPA50UI0O0PNA9QZ/SteelCrucible_WEB.jpg" alt="Banner" />
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px;">
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <div></div>
+-->
 
 # Hey 👋
 
