@@ -30,10 +30,10 @@ I'm Cristobal Veas, a developer with a passion for creating innovative solutions
 - 🌱 I’m currently studying a Master of Sciences in Artificial Intelligence and Cybersecurity at the Alpen-Adria-Universität Klagenfurt in Austria.
 - 👯 I’m looking to collaborate on projects related AI and Cybersecurity.
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/cristobalvc/)
-- ⚡ Fun fact:
+- ⚡ Other facts:
   -  I like to write articles explaining my projects. You can read them here: [Medium](https://medium.com/@cristobal-veas-ch).
   -  I love art and music.
-  -  I speak Spanish, German and English.
+  -  I speak Spanish, German, Portuguese and English.
 
 
 
