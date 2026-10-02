@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 I'm Cristobal Veas, a developer with a passion for creating innovative solutions and learning new technologies. Here's a bit about me:
 
-- 🌱 I’m currently studying a Master of Sciences in Artificial Intelligence and Cybersecurity at the Alpen-Adria-Universität Klagenfurt in Austria.
+
 - 👯 I’m looking to collaborate on projects related AI and Cybersecurity.
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/cristobalvc/)
 - ⚡ Other facts:
